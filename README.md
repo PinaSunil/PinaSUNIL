@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/sunil9_5" target="blank"><img src="https://img.shields.io/twitter/follow/sunil?logo=twitter&style=for-the-badge" alt="sunil" /></a> </p>
 
-- 🌱 I’m currently learning **Backend Developmen**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **WEB Development**
 
